@@ -1,0 +1,10 @@
+{
+  "description": "Catalogo local opcional Vendor_ID:Device_ID -> familia/modelo. Rellenar con GSDML verificados.",
+  "example_format": {
+    "0x0000:0x0000": {
+      "vendor": "Nombre del fabricante",
+      "family": "Familia del producto",
+      "model": "Modelo exacto solo si la evidencia lo permite"
+    }
+  }
+}

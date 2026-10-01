@@ -1,0 +1,8 @@
+{
+  "description": "Catalogo local opcional Vendor_ID -> fabricante. Rellenar con datos verificados de PI.",
+  "example_format": {
+    "0x0000": {
+      "vendor": "Nombre del fabricante"
+    }
+  }
+}
